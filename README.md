@@ -7,3 +7,7 @@ Deep Learning on Patient Survival Prediction Dataset
 **Source of Dataset:** https://journals.lww.com/ccmjournal/Citation/2019/01001/33__THE_GLOBAL_OPEN_SOURCE_SEVERITY_OF_ILLNESS.36.aspx
 
 🧭**Problem Statement:** The target feature is hospital_death which is a binary variable. The task is to classify this variable based on the other 84 features step-by-step by going through each day's task. The scoring metric is Accuracy/Area under ROC curve.
+
+Data: https://drive.google.com/file/d/1W5R7B0LL04ZJhpiu0VmtebqhThqHTH75/view?usp=drive_link
+patient_survival_prediction: EDA and Preprocessing 
+patient_survival_prediction_modelling: Machine Learning and Deep Learning model building.
