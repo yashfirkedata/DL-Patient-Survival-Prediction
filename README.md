@@ -8,7 +8,7 @@ Deep Learning on Patient Survival Prediction Dataset
 
 🧭**Problem Statement:** The target feature is hospital_death which is a binary variable. The task is to classify this variable based on the other 84 features step-by-step by going through each day's task. The scoring metric is Accuracy/Area under ROC curve.
 
-Data: https://drive.google.com/file/d/1W5R7B0LL04ZJhpiu0VmtebqhThqHTH75/view?usp=drive_link
+Preprocessed Data: [https://drive.google.com/file/d/1W5R7B0LL04ZJhpiu0VmtebqhThqHTH75/view?usp=drive_link](https://drive.google.com/file/d/1qwaGezMYLhM_a38eAm8mDR67dwXB8y6T/view?usp=sharing)
 
 patient_survival_prediction: EDA and Preprocessing 
 
